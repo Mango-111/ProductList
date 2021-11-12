@@ -1,0 +1,12 @@
+{ "Products":
+    [{"id":1,"name":"Jacket","price":"$500","images":"./Pictures/jacket.jpg"},
+    {"id":1,"name":"Pants","price":"$550","images":"/Pictures/pants.jpg"},
+    {"id":1,"name":"Purse","price":"$400","images":"/Pictures/purse.jpg"},
+    {"id":1,"name":"Sports Shoes","price":"$650","images":"./Pictures/sports shoes.jpg"},
+    {"id":1,"name":"hat","price":"$300","images":"./Pictures/hat.jpg"},
+    {"id":1,"name":"glasses","price":"$200","images":"./Pictures/glasses.png"},
+    {"id":1,"name":"Suit","price":"$1000","images":"./Pictures/suit.jpg"},
+    {"id":1,"name":"Boots","price":"$700","images":"./Pictures/boots.jpeg"},
+    {"id":1,"name":"Cap","price":"$250","images":"./Pictures/cap.jpeg"},
+    {"id":1,"name":"Backpack","price":"$700","images":"./Pictures/backpack.jpg"}]
+}
